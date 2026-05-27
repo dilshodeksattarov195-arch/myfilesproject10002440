@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicedync",
+        "uuid": 14737600,
+        "checksum": "4ui4y6"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
